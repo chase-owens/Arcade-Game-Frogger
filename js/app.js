@@ -18,7 +18,7 @@ class Enemy extends Character {
     this.sprite += 'enemy-bug.png';
     this.x = x;
     this.y = y;
-    this.speed = (1 + getRandomInt(5) * 100);
+    this.speed = (1 + getRandomInt(5)) * 100;
   }
 
   // Update the enemy's position, required method for game
