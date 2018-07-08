@@ -3,7 +3,7 @@
 
 ## Project 3 Udacity Front-End Web Development Nanodegree
 
-In this project, students were provided this [starter code](https://github.com/udacity/frontend-nanodegree-arcade-game)with this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric).
+In this project, students were provided this [starter code](https://github.com/udacity/frontend-nanodegree-arcade-game) and this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric).
 
 It provided experience with OOP and canvas to make an game. 
 
