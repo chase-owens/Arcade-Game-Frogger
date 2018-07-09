@@ -130,7 +130,7 @@ modal.addEventListener('click', function() {
   player.reset();
   allEnemies.forEach(function(enemy) {
     enemy.x = -100;
-    enemy.speed = (1 + getRandomInt(5) * 100);
+    enemy.speed = (1 + getRandomInt(5)) * 100;
   });
 });
 
